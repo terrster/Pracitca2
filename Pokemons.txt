@@ -1,4 +1,8 @@
 Pikachu
 Solgeo
-Bubasur
+Bulbasur
 Charizard
+Soodowoodo
+Pichu
+Raichu
+Meowtwo
