@@ -7,3 +7,4 @@ Pichu
 Raichu
 Meowtwo
 mew 
+Chikorita
