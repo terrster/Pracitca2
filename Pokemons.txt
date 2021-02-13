@@ -4,3 +4,4 @@ Bulbasur
 Charizard
 Soodowoodo
 Pichu
+Raichu
